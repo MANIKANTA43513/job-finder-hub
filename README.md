@@ -4,11 +4,11 @@ This project allows users to browse, search, filter, and sort job postings using
 The focus of this implementation is clean state management, efficient filtering logic, and responsive UI design.
 🚀 Live Project Links
 🔗 GitHub Repository:
-https://github.com/your-username/job-listing-app�
+https://github.com/MANIKANTA43513/job-finder-hub.git
 🔗 Deployed Application:
-https://your-frontend.vercel.app�
+https://job-finder-hub-two.vercel.app/
 🔗 Screen Recording (Demo + Code Walkthrough):
-https://drive.google.com/file/d/your-video-link/view�
+
 📌 Features Implemented
 ✅ Core Features
 Display job cards (title, company, location, type)
@@ -29,7 +29,6 @@ Follow the steps below to run the project locally.
 1️⃣ Clone the Repository
 Copy code
 Bash
-git clone https://github.com/your-username/job-listing-app.git
 2️⃣ Navigate into the Project Directory
 Copy code
 Bash
@@ -51,8 +50,6 @@ npm start
 5️⃣ Open in Browser
 After running the command, open:
 Copy code
-
-http://localhost:5173
 (or the port shown in your terminal)
 The application should now be running locally.
 🧠 Implementation Approach
