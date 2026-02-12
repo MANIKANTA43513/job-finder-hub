@@ -8,7 +8,7 @@ https://github.com/MANIKANTA43513/job-finder-hub.git
 🔗 Deployed Application:
 https://job-finder-hub-two.vercel.app/
 🔗 Screen Recording (Demo + Code Walkthrough):
-
+https://drive.google.com/file/d/1EkrWaQSI_3z7jIV3MZ0MbfvcwMiHEIy2/view?usp=sharing
 📌 Features Implemented
 ✅ Core Features
 Display job cards (title, company, location, type)
